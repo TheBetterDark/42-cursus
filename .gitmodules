@@ -1,0 +1,24 @@
+[submodule "Libft"]
+	path = Libft
+	url = git@github.com:TheBetterDark/42-libft.git
+[submodule "minishell"]
+	path = minishell
+	url = git@github.com:TheBetterDark/42-minishell.git
+[submodule "Philosophers"]
+	path = Philosophers
+	url = git@github.com:TheBetterDark/42-Philosophers.git
+[submodule "push_swap"]
+	path = push_swap
+	url = git@github.com:TheBetterDark/42-push_swap.git
+[submodule "so_long"]
+	path = so_long
+	url = git@github.com:TheBetterDark/42-so_long.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:TheBetterDark/42-get_next_line.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = git@github.com:TheBetterDark/42-ft_printf.git
+[submodule "pipex"]
+	path = pipex
+	url = git@github.com:TheBetterDark/42-pipex.git
