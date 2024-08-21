@@ -17,6 +17,6 @@ The repository includes the following projects:
 - [42-Philosophers](https://github.com/TheBetterDark/42-Philosophers)
 - [42-minishell](https://github.com/TheBetterDark/42-minishell)
 
-More projects will be added as they are completed.
+More projects will be added as they are completed. If some projects are private, they will be made public once they are completed.
 
 **Note:** The projects are listed in the order that they were completed. Each project is contained in its own repository. The links provided will take you to the respective repository.
