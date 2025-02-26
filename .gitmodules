@@ -30,3 +30,6 @@
 	path = pipex
 	url = git@github.com:TheBetterDark/42-pipex.git
 	branch = main
+[submodule "CPP_Modules"]
+	path = CPP_Modules
+	url = git@github.com:TheBetterDark/42-CPP_Modules.git
