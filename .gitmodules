@@ -33,3 +33,6 @@
 [submodule "CPP_Modules"]
 	path = CPP_Modules
 	url = git@github.com:TheBetterDark/42-CPP_Modules.git
+[submodule "miniRT"]
+	path = miniRT
+	url = https://github.com/edenjamsalem/miniRT

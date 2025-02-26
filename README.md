@@ -16,6 +16,8 @@ The repository includes the following projects:
 - [42-push_swap](https://github.com/TheBetterDark/42-push_swap)
 - [42-Philosophers](https://github.com/TheBetterDark/42-Philosophers)
 - [42-minishell](https://github.com/TheBetterDark/42-minishell)
+- [42-CPP_Modules](https://github.com/TheBetterDark/42-CPP_Modules)
+- [42-miniRT](https://github.com/edenjamsalem/miniRT)
 
 More projects will be added as they are completed. If some projects are private, they will be made public once they are completed.
 
